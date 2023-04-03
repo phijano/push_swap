@@ -3,9 +3,7 @@ learning proyect - 42 Málaga
 
 This proyect is about sorting numbers, there are two stacks and some actions to manipulate the numbers in the stacks.
 
-the problem start with one stack (stack A) filled with numbers and the objetive is to get the list of actions to sort them, so we get the stack A with all the numbers sorted.
-
-To do that it can be used the following actions:
+the problem start with one stack (stack A) filled with numbers and the objetive is to use the following actions to sort them:
 
 sa -> swap the 2 first numbers in stack A.
 
